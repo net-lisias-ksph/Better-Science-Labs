@@ -1,5 +1,7 @@
 # Better Science Labs :: Change Log
 
+* 2019-0519: 0.1.11 (linuxgurugamer) for KSP 1.6.1
+	+ Updated for 1.7
 * 2019-0404: 0.1.10.3 (linuxgurugamer) for KSP 1.6.1
 	+ Updated snacks probe
 * 2019-0307: 0.1.10.2 (linuxgurugamer) for KSP 1.6.1
