@@ -1,5 +1,8 @@
 # Better Science Labs :: Change Log
 
+* 2014-1009: 25.0.1.1 (Cychotha) for KSP 0.25
+	+ 25.0.1.1
+		- Fixed Snack Retrieval Probe for KSP.25
 * 2014-1009: 25.0.1 (Cychotha) for KSP 0.24.2
 	+ 25.0..1
 		- New mk2 Fuselage Science Lab (working Lights and IVA, matches the new KSP.25 mk2 part profile)
