@@ -1,5 +1,12 @@
 # Better Science Labs :: Change Log
 
+* 2014-1009: 25.0.1 (Cychotha) for KSP 0.24.2
+	+ 25.0..1
+		- New mk2 Fuselage Science Lab (working Lights and IVA, matches the new KSP.25 mk2 part profile)
+		- updated modulemanager to v.25.1
+		- Deprecated b9 mk2 Fuselage due to incompatibility with KSP.25 (still available in parts.old folder)
+			- Due to new version of mk2 parts and new KSP.25 part directory structure, this version is incompatible with KSP.24.2, and will break ships from BSL.24.2.3.1.
+			- For the same reasons, BSL.24.2.3.1 is incompatible with KSP.25.
 * 2014-0928: 24.2.3.1 (Cychotha) for KSP 0.24.2
 	+ corrected directory structure
 * 2014-0922: 24.2.3 (Cychotha) for KSP 0.24.2
