@@ -1,5 +1,7 @@
 # Better Science Labs :: Change Log
 
+* 2016-0217: 0.1.7 (linuxgurugamer) for KSP 1.0.5
+	+ No changelog provided
 * 2014-1009: 25.0.1.1 (Cychotha) for KSP 0.25
 	+ 25.0.1.1
 		- Fixed Snack Retrieval Probe for KSP.25
