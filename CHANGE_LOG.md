@@ -1,5 +1,7 @@
 # Better Science Labs :: Change Log
 
+* 2018-0315: 0.1.9.3 (linuxgurugamer) for KSP 1.3.1
+	+ Updated version info for 1.4.1
 * 2017-1009: 0.1.9.2 (linuxgurugamer) for KSP 1.3.0
 	+ Updated version file only
 * 2017-0530: 0.1.9.1 (linuxgurugamer) for KSP 1.2.2
