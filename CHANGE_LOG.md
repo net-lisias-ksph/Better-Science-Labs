@@ -1,5 +1,7 @@
 # Better Science Labs :: Change Log
 
+* 2019-0307: 0.1.10.2 (linuxgurugamer) for KSP 1.6.1
+	+ Added whitelist file for the new ReStock mod
 * 2019-0122: 0.1.10.1 (linuxgurugamer) for KSP 1.6.1
 	+ No changelog provided
 * 2019-0120: 0.1.10 (linuxgurugamer) for KSP 1.6.0
