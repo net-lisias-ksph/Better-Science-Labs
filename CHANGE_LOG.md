@@ -1,5 +1,10 @@
 # Better Science Labs :: Change Log
 
+* 2014-0922: 24.2.3 (Cychotha) for KSP 0.24.2
+	+ 24.2.3
+		- update to mk2 fuselage, now has working cabin lights and flag
+		- Added S.N.A.C.K. science experiment
+		- Added S.N.A.C.K. retrieval probe core
 * 2014-0920: 24.2.2.1 (Cychotha) for KSP 0.24.2
 	+ 24.2.2.1
 		- License clarifications
