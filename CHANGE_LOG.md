@@ -1,5 +1,7 @@
 # Better Science Labs :: Change Log
 
+* 2014-0928: 24.2.3.1 (Cychotha) for KSP 0.24.2
+	+ corrected directory structure
 * 2014-0922: 24.2.3 (Cychotha) for KSP 0.24.2
 	+ 24.2.3
 		- update to mk2 fuselage, now has working cabin lights and flag
