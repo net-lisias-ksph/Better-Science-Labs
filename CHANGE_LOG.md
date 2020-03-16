@@ -1,5 +1,8 @@
 # Better Science Labs :: Change Log
 
+* 2018-1208: 0.1.9.5 (linuxgurugamer) for KSP 1.5.1
+	+ Adjusted some of teh researchTime values, they were too high
+	+ Removed maxversion from .version file
 * 2018-1020: 0.1.9.4 (linuxgurugamer) for KSP 1.4.1
 	+ Update for 1.5 rebuild
 * 2018-0315: 0.1.9.3 (linuxgurugamer) for KSP 1.3.1
